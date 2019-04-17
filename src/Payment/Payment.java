@@ -10,6 +10,7 @@ public class Payment {
 		// TODO Auto-generated method stub
 		System.out.println("this is payment Gatway");
 		System.out.println("This is wrong");
+		System.out.println("This is Right");
 
 	}
 
